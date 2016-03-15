@@ -2,5 +2,8 @@
     
     <string name="app_name">ETicket Beta</string>
     <string name="menu_item_records">Мои записи</string>
+
+    <string name="view_navigation_open">Open</string>
+    <string name="view_navigation_close">Close</string>
     
 </resources>
